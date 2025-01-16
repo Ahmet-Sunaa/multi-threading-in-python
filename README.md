@@ -43,7 +43,7 @@ This project showcases how to handle concurrent tasks effectively using Python's
 
 3. Run the desired Python script:
    ```bash
-   python <script_name>.py
+   python main.py
    ```
 
 4. Follow the instructions in the script to observe multi-threading in action.
@@ -144,7 +144,7 @@ Bu proje, Python'un threading modülünü kullanarak eş zamanlı görevlerin na
 
 3. İstenilen Python scriptini çalıştırın:
    ```bash
-   python <script_adi>.py
+   python main.py
    ```
 
 4. Çoklu iş parçacığının çalışmasını gözlemlemek için scriptteki talimatları izleyin.
